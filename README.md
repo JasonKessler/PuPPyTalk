@@ -1,5 +1,6 @@
-# PuPPyTalkSemioticSquares
-Feb. 21, 2018 PuPPY talk on Lexicon Mining and Semiotic Squares
+# Lexicon Mining, Language Visualization and Semiotic Squares in Python
+February 21, 2018 
+Talk to the Puget Sound Python Programming Group
 
 Please see [Talk.pptx](Talk.pptx) for some introductory slides, and a breif survey of psychological literature on the importance of function words in lexicon mining.
 
