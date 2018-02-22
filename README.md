@@ -2,7 +2,7 @@
 February 21, 2018 
 Talk to the Puget Sound Python Programming Group
 
-Please see [Talk.pptx](Talk.pptx) for some introductory slides, and a brief survey of psychological literature on the importance of function words in lexicon mining.
+Please see [Kessler-Puppy-2018-02-21.pptx](Kessler-Puppy-2018-02-21.pptx) for some introductory slides, and a brief survey of psychological literature on the importance of function words in lexicon mining.
 
 The two notebooks used are written in Python 3.6.  Please run
 
