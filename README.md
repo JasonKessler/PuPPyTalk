@@ -2,7 +2,7 @@
 February 21, 2018 
 Talk to the Puget Sound Python Programming Group
 
-Please see [Talk.pptx](Talk.pptx) for some introductory slides, and a breif survey of psychological literature on the importance of function words in lexicon mining.
+Please see [Kessler-Puppy-2018-02-21.pptx](Kessler-Puppy-2018-02-21.pptx) for some introductory slides, and a brief survey of psychological literature on the importance of function words in lexicon mining.
 
 The two notebooks used are written in Python 3.6.  Please run
 
@@ -10,9 +10,9 @@ $ pip install scattertext spacy gensim
 
 before using them.  
 
-The first notebook, [Class-Association-Scores.ipynb](nbviewer.jupyter.org/github/JasonKessler/PuPPyTalk/blob/master/notebooks/Class-Association-Scores.ipynb), demonstrates a how to use Scattertext to visualize term-category assocations.  The notebook will motivate and introduce the "Fightin' Words" formula-- the Log-Odds-Ratio with an Informative Dirichlet Prior (Monroe et al. 2008).  Data will be used from Pang et al., 2002.
+The first notebook, [Class-Association-Scores.ipynb](http://nbviewer.jupyter.org/github/JasonKessler/PuPPyTalk/blob/master/notebooks/Class-Association-Scores.ipynb), demonstrates a how to use Scattertext to visualize term-category assocations.  The notebook will motivate and introduce the "Fightin' Words" formula-- the Log-Odds-Ratio with an Informative Dirichlet Prior (Monroe et al. 2008).  Data will be used from Pang et al., 2002.
 
-The second notebook, [Explore-Headlines.ipynb](nbviewer.jupyter.org/github/JasonKessler/PuPPyTalk/blob/master/notebooks/Explore-Headlines.ipynb), shows how to use Scattertext to visualize the interactions between a number of document categories.  The example used will be headlines posted to Facebook accounts from a variety of publishers in 2016. The data is taken verbatim from Max Woolfe's data set, available at https://github.com/minimaxir/clickbait-cluster under the MIT license.
+The second notebook, [Explore-Headlines.ipynb](http://nbviewer.jupyter.org/github/JasonKessler/PuPPyTalk/blob/master/notebooks/Explore-Headlines.ipynb), shows how to use Scattertext to visualize the interactions between a number of document categories.  The example used will be headlines posted to Facebook accounts from a variety of publishers in 2016. The data is taken verbatim from Max Woolfe's data set, available at https://github.com/minimaxir/clickbait-cluster under the MIT license.
 
 # References
 * Cindy K. Chung and James W. Pennebaker. 2012. Counting Little Words in Big Data: The Psychology of Communities, Culture, and History. EASP.
