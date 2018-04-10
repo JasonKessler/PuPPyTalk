@@ -14,7 +14,7 @@ The first notebook, [Class-Association-Scores.ipynb](http://nbviewer.jupyter.org
 
 The second notebook, [Explore-Headlines.ipynb](http://nbviewer.jupyter.org/github/JasonKessler/PuPPyTalk/blob/master/notebooks/Explore-Headlines.ipynb), shows how to use Scattertext to visualize the interactions between a number of document categories.  The example used will be headlines posted to Facebook accounts from a variety of publishers in 2016. The data is taken verbatim from Max Woolfe's data set, available at https://github.com/minimaxir/clickbait-cluster under the MIT license.
 
-I've included a notebook exploring toxic comment classification, from a recent Kaggle competition. [Toxic-Comments](http://nbviewer.jupyter.org/github/JasonKessler/PuPPyTalk/blob/master/notebooks/Toxic-Comments.ipynb).
+I've included a notebook exploring toxic comment classification from a recent Kaggle competition: [Toxic-Comments](http://nbviewer.jupyter.org/github/JasonKessler/PuPPyTalk/blob/master/notebooks/Toxic-Comments.ipynb).
 
 # References
 * Cindy K. Chung and James W. Pennebaker. 2012. Counting Little Words in Big Data: The Psychology of Communities, Culture, and History. EASP.
